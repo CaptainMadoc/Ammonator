@@ -1,0 +1,13 @@
+{
+	"itemName" : "ammonatortestammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatortestammo.png",
+	"description" : "actually testing",
+	"shortdescription" : "test ammo",
+	"casingProjectile" : "ammonatortest_casing",
+	"projectile" : "ammonatortestproj",
+	"projectileConfig" : {"speed" : 10, "power" : 10000}
+}

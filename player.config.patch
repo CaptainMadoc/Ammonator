@@ -1,0 +1,22 @@
+[
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "jsgunpart"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "jsammobox"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "attachmentsremover"}
+    },
+    {
+        "op": "add",
+        "path": "/deploymentConfig/scripts/-",
+        "value": "/js/hooks/gunUI.lua"
+    }
+]
