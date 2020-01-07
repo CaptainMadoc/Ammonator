@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatorwheatammo",
+	"pwheat" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatorwheatammo.png",
+	"description" : "test",
+	"shortdescription" : "Wheat & Wheaton Ammo",
+	"projectile" : "ammonatorwheatproj",
+	"projectileConfig" : {"speed" : 120, "power" : 10}
+}

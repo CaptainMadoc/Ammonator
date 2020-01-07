@@ -1,10 +1,10 @@
 {
-  "kind" : "ammonatorsmoke",
+  "kind" : "ammonatorwheatsmoke",
   "definition" : {
     "type" : "animated",
-    "animation" : "/fx/ammonatorsmoke/image.animation?multiply=FFFFFF32",
+    "animation" : "/fx/ammonatorwheatsmoke/image.animation?multiply=FFFFFF32",
     "looping" : false,
-    "size" : 0.375,
+    "size" : 0.4,
     "color" : [255,255,255,255],
     "position" : [0, 0],
     "destructionAction" : "fade",

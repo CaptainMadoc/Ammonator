@@ -1,7 +1,7 @@
 {
-	"itemName" : "ammonatorrice",
+	"itemName" : "ammonatorwheat",
 
-	"shortdescription" : "Ricetta Arborio",
+	"shortdescription" : "Wheatfield Emgrainay",
 	"description" : "",
 
 	"category" : "base",
@@ -9,7 +9,7 @@
 	"inventoryIcon" : "image/icon.png",
 	"rarity" : "common",
 	"maxStack" : 1,
-	"price" : 0,
+	"pwheat" : 0,
 	"twoHanded" : true,
 
 	"scripts" : ["/ammonator/core/core.lua"],
@@ -25,7 +25,7 @@
 		"draw" : "animations/draw.keyframes"
 	},
 
-	"ammoType" : "ammonatorrice",
+	"ammoType" : "ammonatorwheat",
 
 	"attachments" : {
 		"grip" : {
@@ -84,7 +84,7 @@
 		"globalTagDefaults" : {},
 		"sounds" : {
 			"dry" : ["/sfx/gun/reload/machinepistol_reload_clip2.ogg"],
-			"fire" : ["sounds/ammonatorrice.ogg"],
+			"fire" : ["sounds/ammonatorwheat.ogg"],
 			"boltback" : ["sounds/boltback.ogg"],
 			"boltforward" : ["sounds/boltforward.ogg"],
 			"magin" : ["sounds/magin.ogg"],
@@ -115,7 +115,7 @@
 
 				"gunlever" : {
 					"properties" : {
-						"zLevel" : 49,
+						"zLevel" : 46,
 						"centered" : false,
 						"image" : "<partImage>",
 						"offset" : [0.0, 0.0],
@@ -127,7 +127,7 @@
 				//Positioners used by muzzle and casing
 				"firePosition" : {
 					"properties" : {
-						"offset":[2.75, 1.125],
+						"offset":[4.125, 0.875],
 						"anchorPart" : "gun"
 					}
 				},
@@ -286,7 +286,7 @@
 				"zLevel" : 100,
 				"anchorPart" : "casingPosition",
 				"particles" : [
-					{ "particle" : "ammonatorsmoke", "offset" : [0.5, 0]}
+					{ "particle" : "ammonatorwheatsmoke", "offset" : [1.875, -0.25]}
 				]
 			},
 			"vapor" : {
@@ -302,9 +302,9 @@
 				"zLevel" : 100,
 				"anchorPart" : "firePosition",
 				"particles" : [
-					{"particle" : "ammonatorricespark"},
-					{"particle" : "ammonatorricespark"},
-					{"particle" : "ammonatorricespark"}
+					{"particle" : "ammonatorwheatspark"},
+					{"particle" : "ammonatorwheatspark"},
+					{"particle" : "ammonatorwheatspark"}
 				]
 			}
 		},
@@ -320,31 +320,31 @@
 			"R_arm1":{
 				"ignore":true,
 				"transform":{
-					"rotation":15
+					"rotation":0
 				}
 			},
 			"R_arm2":{
 				"ignore":true,
 				"transform":{
-					"rotation":-15
+					"rotation":0
 				}
 			},
 			"L_arm1":{
 				"ignore":true,
 				"transform":{
-					"rotation":-5
+					"rotation":-15
 				}
 			},
 			"L_arm2":{
 				"ignore":true,
 				"transform":{
-					"rotation":15
+					"rotation":25
 				}
 			},
 			"gun":{
 				"transform":{
 					"rotationPoint":[1.5625,0.8125],
-					"position":[-0.5625,-0.50625]
+					"position":[-1.0625,-0.4375]
 				}
 			},
 			"lever":{},

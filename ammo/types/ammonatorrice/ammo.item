@@ -8,5 +8,5 @@
 	"description" : "test",
 	"shortdescription" : "Ricetta Arborio Ammo",
 	"projectile" : "ammonatorriceproj",
-	"projectileConfig" : {"speed" : 90, "power" : 3}
+	"projectileConfig" : {"speed" : 90, "power" : 2}
 }
