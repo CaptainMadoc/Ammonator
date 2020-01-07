@@ -21,7 +21,7 @@ local function circle(d, steps)
 end
 
 function crosshair:init()
-	activeItem.setCursor("/ammonatorcursor/crosshair.cursor")
+	activeItem.setCursor("/ammonator/cursor/crosshair.cursor")
 end
 
 function crosshair:update(dt)

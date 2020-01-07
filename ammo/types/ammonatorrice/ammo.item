@@ -4,10 +4,9 @@
 	"rarity" : "common",
 	"maxStack" : 25000,
 	"category" : "craftingMaterial",
-	"inventoryIcon" : "ammonatorriceParabellum.png",
+	"inventoryIcon" : "ammonatorriceammo.png",
 	"description" : "test",
-	"shortdescription" : "9mm",
-	"casingProjectile" : "ammonatorrice_casing",
+	"shortdescription" : "Ricetta Arborio Ammo",
 	"projectile" : "ammonatorriceproj",
-	"projectileConfig" : {"speed" : 100, "power" : 3}
+	"projectileConfig" : {"speed" : 90, "power" : 3}
 }

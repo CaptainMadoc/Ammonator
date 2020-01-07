@@ -1,4 +1,4 @@
-modPath = "/ammonator"
+modPath = "/ammonator/"
 corePath = modPath.."core/"
 includePath = corePath.."scripts/"
 

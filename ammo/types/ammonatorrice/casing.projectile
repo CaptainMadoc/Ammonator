@@ -7,7 +7,7 @@
   "actionOnCollide" : [
     {
   	  "action" : "sound",
-  	  "options" : [ "" ]
+  	  "options" : [ "/guns/sounds/casing1.wav","/guns/sounds/casing2.wav" ]
   	}
   ],
   "renderLayer" : "Player+1",
