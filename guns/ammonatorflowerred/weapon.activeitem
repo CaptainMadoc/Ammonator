@@ -1,7 +1,7 @@
 {
-	"itemName" : "ammonatorrice",
+	"itemName" : "ammonatorflowerred",
 
-	"shortdescription" : "Ricetta Arborio",
+	"shortdescription" : "Kadan Type-R",
 	"description" : "",
 
 	"category" : "base",
@@ -9,8 +9,8 @@
 	"inventoryIcon" : "image/icon.png",
 	"rarity" : "common",
 	"maxStack" : 1,
-	"price" : 0,
-	"twoHanded" : true,
+	"pflowerred" : 0,
+	"twoHanded" : false,
 
 	"scripts" : ["/ammonator/core/core.lua"],
 	"gunScript" : "/ammonator/systems/default.lua",
@@ -25,7 +25,7 @@
 		"draw" : "animations/draw.keyframes"
 	},
 
-	"ammoType" : "ammonatorrice",
+	"ammoType" : "ammonatorflowerred",
 
 	"attachments" : {
 		"grip" : {
@@ -84,7 +84,7 @@
 		"globalTagDefaults" : {},
 		"sounds" : {
 			"dry" : ["/sfx/gun/reload/machinepistol_reload_clip2.ogg"],
-			"fire" : ["sounds/ammonatorrice.ogg"],
+			"fire" : ["sounds/ammonatorflowerred.ogg"],
 			"boltback" : ["sounds/boltback.ogg"],
 			"boltforward" : ["sounds/boltforward.ogg"],
 			"magin" : ["sounds/magin.ogg"],
@@ -302,9 +302,9 @@
 				"zLevel" : 100,
 				"anchorPart" : "firePosition",
 				"particles" : [
-					{"particle" : "ammonatorricespark"},
-					{"particle" : "ammonatorricespark"},
-					{"particle" : "ammonatorricespark"}
+					{"particle" : "ammonatorflowerredspark"},
+					{"particle" : "ammonatorflowerredspark"},
+					{"particle" : "ammonatorflowerredspark"}
 				]
 			}
 		},

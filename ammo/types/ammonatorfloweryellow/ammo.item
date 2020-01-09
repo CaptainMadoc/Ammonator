@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatorfloweryellowammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatorfloweryellowammo.png",
+	"description" : "test",
+	"shortdescription" : "Kadan Type-Y Ammo",
+	"projectile" : "ammonatorfloweryellowproj",
+	"projectileConfig" : {"speed" : 300, "power" : 3}
+}
