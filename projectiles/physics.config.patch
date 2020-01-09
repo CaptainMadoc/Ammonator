@@ -16,5 +16,39 @@
           "groundFriction" : 1.0,
           "maximumCorrection" : 0.75
         }
+      },"op" : "add",
+        "path" : "/ammonatorfloweryellow",
+        "value" : {
+		  "mass" : 1.0,
+          "gravityMultiplier" : 0.08,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 0.4,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+		  "stickyCollision" : true,
+		  "stickyForce" : 20.0,
+          "airFriction" : 0.3,
+          "liquidFriction" : 2.0,
+          "groundFriction" : 1.0,
+          "maximumCorrection" : 0.75
+        }
+      },
+      {
+        "op" : "add",
+        "path" : "/ammonatorflowerblue",
+        "value" : {
+		  "mass" : 1.0,
+          "gravityMultiplier" : 0.08,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 0.4,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+		  "stickyCollision" : true,
+		  "stickyForce" : 20.0,
+          "airFriction" : 0.3,
+          "liquidFriction" : 2.0,
+          "groundFriction" : 1.0,
+          "maximumCorrection" : 0.75
+        }
       }
     ]

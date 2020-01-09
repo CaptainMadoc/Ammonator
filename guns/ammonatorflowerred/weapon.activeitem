@@ -9,7 +9,7 @@
 	"inventoryIcon" : "image/icon.png",
 	"rarity" : "common",
 	"maxStack" : 1,
-	"pflowerred" : 0,
+	"price" : 0,
 	"twoHanded" : false,
 
 	"scripts" : ["/ammonator/core/core.lua"],

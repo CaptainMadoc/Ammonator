@@ -1,0 +1,18 @@
+{
+  "projectileName" : "ammonatorflowerblueproj",
+  "image" : "ammonatorflowerblueproj.png",
+  "animationCycle" : 0.25,
+  "physics" : "ammonatorflowerblue",
+  "timeToLive" : 1.25,
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "actionOnHit" : [
+    {
+      "action" : "config",
+      "file" : "/fx/gbbulletimpact/action.config"
+    }
+  ],
+  "power" : 3.0
+}
+
+
