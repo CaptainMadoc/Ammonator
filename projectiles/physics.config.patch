@@ -16,7 +16,8 @@
           "groundFriction" : 1.0,
           "maximumCorrection" : 0.75
         }
-      },"op" : "add",
+      },
+	  {"op" : "add",
         "path" : "/ammonatorfloweryellow",
         "value" : {
 		  "mass" : 1.0,
