@@ -84,7 +84,7 @@
 		"globalTagDefaults" : {},
 		"sounds" : {
 			"dry" : ["/sfx/gun/reload/machinepistol_reload_clip2.ogg"],
-			"fire" : ["sounds/ammonatorflowerred.ogg"],
+			"fire" : ["sounds/ammonatorflower.ogg"],
 			"boltback" : ["sounds/boltback.ogg"],
 			"boltforward" : ["sounds/boltforward.ogg"],
 			"magin" : ["sounds/magin.ogg"],
@@ -127,7 +127,7 @@
 				//Positioners used by muzzle and casing
 				"firePosition" : {
 					"properties" : {
-						"offset":[2.75, 1.125],
+						"offset":[1.75, 0.875],
 						"anchorPart" : "gun"
 					}
 				},
@@ -344,7 +344,7 @@
 			"gun":{
 				"transform":{
 					"rotationPoint":[1.5625,0.8125],
-					"position":[-0.5625,-0.50625]
+					"position":[-0.25,-0.25]
 				}
 			},
 			"lever":{},

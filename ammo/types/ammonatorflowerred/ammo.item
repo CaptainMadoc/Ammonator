@@ -8,5 +8,5 @@
 	"description" : "test",
 	"shortdescription" : "Kadan Type-R Ammo",
 	"projectile" : "ammonatorflowerredproj",
-	"projectileConfig" : {"speed" : 300, "power" : 3}
+	"projectileConfig" : {"speed" : 100, "power" : 3}
 }

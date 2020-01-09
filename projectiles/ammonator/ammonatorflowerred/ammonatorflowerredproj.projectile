@@ -3,6 +3,7 @@
   "image" : "ammonatorflowerredproj.png",
   "animationCycle" : 0.25,
   "physics" : "ammonatorflowerred",
+  "timeToLive" : 1.25,
   "frameNumber" : 1,
   "pointLight" : false,
   "actionOnHit" : [
