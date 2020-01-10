@@ -15,6 +15,16 @@
         "value" : {"item" : "attachmentsremover"}
     },
     {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorwheat"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorwheatammo"}
+    },
+    {
         "op": "add",
         "path": "/deploymentConfig/scripts/-",
         "value": "/js/hooks/gunUI.lua"

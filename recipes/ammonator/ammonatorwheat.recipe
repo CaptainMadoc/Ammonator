@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "wheat", "count" : 50 }
+  ],
+  
+  "output" : {
+    "item" : "ammonatorwheat",
+    "count" : 1
+  },
+  "groups" : [ "plain", "weapons", "all" ]
+}
