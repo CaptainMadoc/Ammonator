@@ -143,7 +143,7 @@
 					"properties" : {
 						"offset" : [0, -1],
 						"zLevel" : 51,
-						"fullbright" : true,
+						"fullbright" : false,
 						"centered" : false,
 						"anchorPart" : "firePosition"
 					},
@@ -272,7 +272,7 @@
 			"muzzleFlash" : {
 				"pointBeam" : 0,
 				"pointAngle" : 0,
-				"color" : [200, 200, 0],
+				"color" : [0, 0, 0],
 				"pointLight" : false,
 				"anchorPart" : "firePosition",
 				"active" : false,

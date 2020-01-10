@@ -143,7 +143,7 @@
 					"properties" : {
 						"offset" : [0, -1],
 						"zLevel" : 51,
-						"fullbright" : true,
+						"fullbright" : false,
 						"centered" : false,
 						"anchorPart" : "firePosition"
 					},
