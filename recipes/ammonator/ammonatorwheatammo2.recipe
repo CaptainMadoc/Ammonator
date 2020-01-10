@@ -1,0 +1,12 @@
+{
+  "input" : [
+	{ "item" : "wheat", "count" : 5 },
+	{ "item" : "volatilepowder", "count" : 2 }
+  ],
+  
+  "output" : {
+    "item" : "ammonatorwheatammo2",
+    "count" : 1
+  },
+  "groups" : [ "plain", "weapons", "all" ]
+}

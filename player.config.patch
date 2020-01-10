@@ -25,6 +25,11 @@
         "value" : {"item" : "ammonatorwheatammo"}
     },
     {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorwheatammo2"}
+    },
+    {
         "op": "add",
         "path": "/deploymentConfig/scripts/-",
         "value": "/js/hooks/gunUI.lua"

@@ -6,7 +6,7 @@
 	"category" : "craftingMaterial",
 	"inventoryIcon" : "ammonatorwheatammo.png",
 	"description" : "test",
-	"shortdescription" : "Wheat & Wheaton Ammo",
+	"shortdescription" : "Wheatfield Mk I Ammo",
 	"projectile" : "ammonatorwheatproj",
-	"projectileConfig" : {"speed" : 120, "power" : 10}
+	"projectileConfig" : {"speed" : 100, "power" : 10}
 }

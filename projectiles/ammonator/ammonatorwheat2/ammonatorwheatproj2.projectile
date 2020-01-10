@@ -1,0 +1,17 @@
+{
+  "projectileName" : "ammonatorwheatproj2",
+  "image" : "ammonatorwheatproj2.png",
+  "animationCycle" : 0.25,
+  "piercing" : true,
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "actionOnHit" : [
+    {
+      "action" : "config",
+      "file" : "/fx/gbbulletimpact/action.config"
+    }
+  ],
+  "power" : 3.0
+}
+
+

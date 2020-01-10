@@ -2,7 +2,7 @@
   "kind" : "ammonatorwheatspark",
   "definition" : {
     "type" : "ember",
-    "size" : 1,
+    "size" : 2,
     "color" : [215, 189, 52, 255],
     "destructionAction" : "shrink",
     "destructionTime" : 0.2,

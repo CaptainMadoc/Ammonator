@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatorwheatammo2",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatorwheatammo2.png",
+	"description" : "test",
+	"shortdescription" : "Wheatfield Mk II Ammo",
+	"projectile" : "ammonatorwheatproj2",
+	"projectileConfig" : {"speed" : 200, "power" : 20}
+}
