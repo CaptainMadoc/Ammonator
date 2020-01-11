@@ -1,12 +1,11 @@
 {
   "input" : [
-	{ "item" : "wheat", "count" : 1 }
+	{ "item" : "petalyellow", "count" : 20 }
   ],
   
   "output" : {
-    "item" : "ammonatorwheatammo",
+    "item" : "ammonatorfloweryellow",
     "count" : 1
   },
-  "duration" : 0.2,
   "groups" : [ "plain", "weapons", "all" ]
 }

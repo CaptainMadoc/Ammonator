@@ -1,12 +1,12 @@
 {
   "input" : [
-	{ "item" : "wheat", "count" : 1 }
+	{ "item" : "petalred", "count" : 3 }
   ],
   
   "output" : {
-    "item" : "ammonatorwheatammo",
+    "item" : "ammonatorflowerredammo",
     "count" : 1
   },
-  "duration" : 0.2,
+  "duration" : 0.05,
   "groups" : [ "plain", "weapons", "all" ]
 }

@@ -17,6 +17,16 @@
     {
         "path" : "/defaultBlueprints/tier1/-",
         "op" : "add",
+        "value" : {"item" : "ammonatorrice"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorriceammo"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
         "value" : {"item" : "ammonatorwheat"}
     },
     {
@@ -28,6 +38,36 @@
         "path" : "/defaultBlueprints/tier1/-",
         "op" : "add",
         "value" : {"item" : "ammonatorwheatammo2"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorflowerblue"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorflowerblueammo"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorflowerred"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorflowerredammo"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorfloweryellow"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorfloweryellowammo"}
     },
     {
         "op": "add",
