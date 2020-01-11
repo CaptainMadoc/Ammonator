@@ -1,0 +1,43 @@
+{
+  "projectileName" : "ammonatorriceproj",
+  "image" : "ammonatorriceproj.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "timeToLive" : 0.001,
+  "actionOnHit" : [
+    {
+      "action" : "config",
+      "file" : "/fx/gbbulletimpact/action.config"
+    }
+  ],
+  "power" : 3.0,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "ammonatorpotatoproj2",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.875,
+      "angleAdjust" : 1.5,
+      "fuzzAngle" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "ammonatorpotatoproj2",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.875,
+      "angleAdjust" : -1.5,
+      "fuzzAngle" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "ammonatorpotatoproj1",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 0
+    }
+  ]
+}
+
+

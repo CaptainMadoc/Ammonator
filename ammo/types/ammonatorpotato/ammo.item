@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatorpotatoammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatorpotatoammo.png",
+	"description" : "test",
+	"shortdescription" : "Ricetta Arborio Ammo",
+	"projectile" : "ammonatorriceproj",
+	"projectileConfig" : {"speed" : 75, "power" : 5}
+}
