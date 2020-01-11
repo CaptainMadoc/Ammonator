@@ -17,6 +17,16 @@
     {
         "path" : "/defaultBlueprints/tier1/-",
         "op" : "add",
+        "value" : {"item" : "ammonatorcotton"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorcottonammo"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
         "value" : {"item" : "ammonatorrice"}
     },
     {

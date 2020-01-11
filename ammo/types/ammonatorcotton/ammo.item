@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatorcottonammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatorcottonammo.png",
+	"description" : "test",
+	"shortdescription" : "Colton Mk I Ammo",
+	"projectile" : "ammonatorcottonproj",
+	"projectileConfig" : {"speed" : 80, "power" : 15}
+}

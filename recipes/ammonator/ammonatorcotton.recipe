@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "cotton", "count" : 15 }
+  ],
+  
+  "output" : {
+    "item" : "ammonatorcotton",
+    "count" : 1
+  },
+  "groups" : [ "plain", "weapons", "all" ]
+}
