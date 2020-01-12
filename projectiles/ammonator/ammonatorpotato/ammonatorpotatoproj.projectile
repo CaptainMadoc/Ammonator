@@ -1,6 +1,6 @@
 {
-  "projectileName" : "ammonatorriceproj",
-  "image" : "ammonatorriceproj.png",
+  "projectileName" : "ammonatorpotatoproj",
+  "image" : "ammonatorpotatoproj.png",
   "animationCycle" : 0.25,
   "frameNumber" : 1,
   "pointLight" : false,
@@ -17,16 +17,16 @@
       "action" : "projectile",
       "type" : "ammonatorpotatoproj2",
       "inheritDamageFactor" : 1,
-      "inheritSpeedFactor" : 0.875,
-      "angleAdjust" : 1.5,
+      "inheritSpeedFactor" : 0.98,
+      "angleAdjust" : 0.3,
       "fuzzAngle" : 0
     },
     {
       "action" : "projectile",
       "type" : "ammonatorpotatoproj2",
       "inheritDamageFactor" : 1,
-      "inheritSpeedFactor" : 0.875,
-      "angleAdjust" : -1.5,
+      "inheritSpeedFactor" : 0.98,
+      "angleAdjust" : -0.3,
       "fuzzAngle" : 0
     },
     {

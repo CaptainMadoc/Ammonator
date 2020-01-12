@@ -1,7 +1,7 @@
 {
 	"itemName" : "ammonatorpotato",
 
-	"shortdescription" : "Kadan Type-R",
+	"shortdescription" : "Kartoshka",
 	"description" : "",
 
 	"category" : "base",
@@ -84,7 +84,7 @@
 		"globalTagDefaults" : {},
 		"sounds" : {
 			"dry" : ["/sfx/gun/reload/machinepistol_reload_clip2.ogg"],
-			"fire" : ["sounds/ammonatorflower.ogg"],
+			"fire" : ["sounds/ammonatorpotato.ogg"],
 			"boltback" : ["sounds/boltback.ogg"],
 			"boltforward" : ["sounds/boltforward.ogg"],
 			"magin" : ["sounds/magin.ogg"],
@@ -127,7 +127,7 @@
 				//Positioners used by muzzle and casing
 				"firePosition" : {
 					"properties" : {
-						"offset":[1.75, 0.875],
+						"offset":[2.375, 1.125],
 						"anchorPart" : "gun"
 					}
 				},
@@ -272,7 +272,7 @@
 			"muzzleFlash" : {
 				"pointBeam" : 0,
 				"pointAngle" : 0,
-				"color" : [200, 200, 0],
+				"color" : [0, 0, 0],
 				"pointLight" : false,
 				"anchorPart" : "firePosition",
 				"active" : false,
@@ -344,7 +344,7 @@
 			"gun":{
 				"transform":{
 					"rotationPoint":[1.5625,0.8125],
-					"position":[-0.25,-0.25]
+					"position":[-0.486,-0.65]
 				}
 			},
 			"lever":{},

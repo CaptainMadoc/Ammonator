@@ -1,6 +1,6 @@
 {
-  "projectileName" : "ammonatorriceproj2",
-  "image" : "ammonatorriceproj2.png",
+  "projectileName" : "ammonatorpotatoproj2",
+  "image" : "ammonatorpotatoproj2.png",
   "animationCycle" : 0.25,
   "frameNumber" : 1,
   "pointLight" : false,

@@ -6,7 +6,7 @@
 	"category" : "craftingMaterial",
 	"inventoryIcon" : "ammonatorpotatoammo.png",
 	"description" : "test",
-	"shortdescription" : "Ricetta Arborio Ammo",
-	"projectile" : "ammonatorriceproj",
-	"projectileConfig" : {"speed" : 75, "power" : 5}
+	"shortdescription" : "Kartoshka Ammo",
+	"projectile" : "ammonatorpotatoproj",
+	"projectileConfig" : {"speed" : 60, "power" : 5}
 }
