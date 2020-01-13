@@ -1,0 +1,12 @@
+{
+  "input" : [
+	{ "item" : "dirt", "count" : 25 }
+  ],
+  
+  "output" : {
+    "item" : "ammonatordirtammo",
+    "count" : 1
+  },
+  "duration" : 0.05,
+  "groups" : [ "plain", "weapons", "all" ]
+}

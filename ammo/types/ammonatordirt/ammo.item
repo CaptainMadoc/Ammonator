@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatordirtammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatordirtammo.png",
+	"description" : "test",
+	"shortdescription" : "Dirtarov Ammo",
+	"projectile" : "ammonatordirtproj",
+	"projectileConfig" : {"speed" : 60, "power" : 2}
+}
