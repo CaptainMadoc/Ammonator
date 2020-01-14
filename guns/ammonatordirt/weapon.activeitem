@@ -1,5 +1,5 @@
 {
-	"itemName" : "ammonatorpotato",
+	"itemName" : "ammonatordirt",
 
 	"shortdescription" : "Dirtarov",
 	"description" : "",
@@ -127,7 +127,7 @@
 				//Positioners used by muzzle and casing
 				"firePosition" : {
 					"properties" : {
-						"offset":[2.375, 1.125],
+						"offset":[2.375, 1.375],
 						"anchorPart" : "gun"
 					}
 				},
@@ -348,7 +348,11 @@
 				}
 			},
 			"lever":{},
-			"mag" : {},
+			"mag" : {
+				"transform":{
+					"position":[0,1.125]
+				}
+			},
 
 			"attachment_muzzle" : {
 				"ignore":true
