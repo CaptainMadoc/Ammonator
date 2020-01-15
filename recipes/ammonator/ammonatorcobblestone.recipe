@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "cobblestonematerial", "count" : 200 }
+  ],
+  
+  "output" : {
+    "item" : "ammonatorcobblestone",
+    "count" : 1
+  },
+  "groups" : [ "plain", "weapons", "all" ]
+}

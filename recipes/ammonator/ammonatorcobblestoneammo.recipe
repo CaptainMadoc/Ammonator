@@ -1,0 +1,12 @@
+{
+  "input" : [
+	{ "item" : "cobblestonematerial", "count" : 15 }
+  ],
+  
+  "output" : {
+    "item" : "ammonatorcobblestoneammo",
+    "count" : 1
+  },
+  "duration" : 0.05,
+  "groups" : [ "plain", "weapons", "all" ]
+}

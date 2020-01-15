@@ -1,0 +1,12 @@
+{
+	"itemName" : "ammonatorcobblestoneammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 25000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "ammonatorcobblestoneammo.png",
+	"description" : "test",
+	"shortdescription" : "Grock Ammo",
+	"projectile" : "ammonatorcobblestoneproj",
+	"projectileConfig" : {"speed" : 90, "power" : 15}
+}

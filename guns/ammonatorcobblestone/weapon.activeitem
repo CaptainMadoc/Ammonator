@@ -1,7 +1,7 @@
 {
-	"itemName" : "ammonatordirt",
+	"itemName" : "ammonatorcobblestone",
 
-	"shortdescription" : "Dirtarov",
+	"shortdescription" : "Grock",
 	"description" : "",
 
 	"category" : "base",
@@ -25,7 +25,7 @@
 		"draw" : "animations/draw.keyframes"
 	},
 
-	"ammoType" : "ammonatordirt",
+	"ammoType" : "ammonatorcobblestone",
 
 	"attachments" : {
 		"grip" : {
@@ -84,7 +84,7 @@
 		"globalTagDefaults" : {},
 		"sounds" : {
 			"dry" : ["/sfx/gun/reload/machinepistol_reload_clip2.ogg"],
-			"fire" : ["sounds/ammonatordirt.ogg"],
+			"fire" : ["sounds/ammonatorcobblestone.ogg"],
 			"boltback" : ["sounds/boltback.ogg"],
 			"boltforward" : ["sounds/boltforward.ogg"],
 			"magin" : ["sounds/magin.ogg"],
@@ -127,7 +127,7 @@
 				//Positioners used by muzzle and casing
 				"firePosition" : {
 					"properties" : {
-						"offset":[2.375, 1.375],
+						"offset":[2.875, 1.375],
 						"anchorPart" : "gun"
 					}
 				},
@@ -302,9 +302,9 @@
 				"zLevel" : 100,
 				"anchorPart" : "firePosition",
 				"particles" : [
-					{"particle" : "ammonatordirtspark"},
-					{"particle" : "ammonatordirtspark"},
-					{"particle" : "ammonatordirtspark"}
+					{"particle" : "ammonatorcobblestonespark"},
+					{"particle" : "ammonatorcobblestonespark"},
+					{"particle" : "ammonatorcobblestonespark"}
 				]
 			}
 		},
@@ -344,13 +344,13 @@
 			"gun":{
 				"transform":{
 					"rotationPoint":[1.5625,0.8125],
-					"position":[-0.486,-0.65]
+					"position":[-0.486,-0.525]
 				}
 			},
 			"lever":{},
 			"mag" : {
 				"transform":{
-					"position":[0,1.125]
+					"position":[0,0]
 				}
 			},
 

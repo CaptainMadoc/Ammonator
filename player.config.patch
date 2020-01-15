@@ -27,6 +27,16 @@
     {
         "path" : "/defaultBlueprints/tier1/-",
         "op" : "add",
+        "value" : {"item" : "ammonatorcobblestone"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
+        "value" : {"item" : "ammonatorcobblestoneammo"}
+    },
+    {
+        "path" : "/defaultBlueprints/tier1/-",
+        "op" : "add",
         "value" : {"item" : "ammonatorpotato"}
     },
     {
